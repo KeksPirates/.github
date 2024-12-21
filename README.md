@@ -31,4 +31,4 @@ All projects and materials provided by KeksPirates are strictly for **educationa
 
 ---
 
-**💡 Fun Fact:** _We started our journey with the goal of demystifying the secrets behind software for curious minds._
+**💡 Fun Fact:** _We started our journey with the goal of creating actual good software that works._
