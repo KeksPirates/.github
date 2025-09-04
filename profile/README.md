@@ -12,16 +12,7 @@
 
 ## 🛠️ Featured Projects
 Here’s a glimpse into some of our key projects:
-- [**PirateLauncher**](https://github.com/KeksPirates/PirateLauncher) - A Launcher written in Python to download and manage pirated games and software.
-
-
-
-
-
----
-
-## 🦜 Connect With Us
-- Discord (Coming Soon)
+- [**SoftwareManager**](https://github.com/KeksPirates/SoftwareManager) - A Launcher written in Python to download and manage software.
 
 
 ---
@@ -29,6 +20,4 @@ Here’s a glimpse into some of our key projects:
 ### ⚠️ Disclaimer
 All projects and materials provided by KeksPirates are strictly for **educational purposes only**. We do not condone or support illegal activities, including software piracy or unauthorized distribution of copyrighted materials. Always adhere to local laws and regulations.
 
----
 
-**💡 Fun Fact:** _We started our journey with the goal of creating actual good software that works._
