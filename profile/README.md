@@ -4,7 +4,7 @@
 [**KeksPirates**] is a collective of enthusiasts exploring the realms of software freedom, reverse engineering, and digital education. Our mission is to empower individuals with knowledge, tools, and techniques to understand and innovate in the digital space.
 
 ### 🌐 What We Stand For
-- **Digital Freedom**: Advocating for accessible and unrestricted software.
+- **Digital Freedom**: Advocating for accessible and well-working software.
 - **Simple Tools**: Providing resources and tools that are simple to understand for newbies.
 - **Open Collaboration**: Building a community where knowledge is shared, and curiosity is encouraged.
 
