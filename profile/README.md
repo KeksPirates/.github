@@ -20,4 +20,5 @@ Here’s a glimpse into some of our key projects:
 ### ⚠️ Disclaimer
 All projects and materials provided by KeksPirates are strictly for **educational purposes only**. We do not condone or support illegal activities, including software piracy or unauthorized distribution of copyrighted materials. Always adhere to local laws and regulations.
 
+(yes, our profile pic and this readme are partially ai-generated)
 
